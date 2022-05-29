@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb78f3efc49dd0b429652aec352c8657, type: 3}
+  m_Name: BigKnight
+  m_EditorClassIdentifier: 
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Scale: {x: 4, y: 4}
+  m_Animations: {fileID: 9100000, guid: f26f2df9dd4fc2f4b9455eca393b3ac5, type: 2}
+  m_MoveSpeed: 1
+  m_HP: 15
+  m_Armor: 5
+  m_Score: 0
+  m_Collider: 0.32
+  damage: 1
+  gold: 3

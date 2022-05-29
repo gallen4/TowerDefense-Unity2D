@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb78f3efc49dd0b429652aec352c8657, type: 3}
+  m_Name: AirKnight
+  m_EditorClassIdentifier: 
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Scale: {x: 3, y: 3}
+  m_Animations: {fileID: 9100000, guid: ca562e2474b8a4e469513c8e6df07089, type: 2}
+  m_MoveSpeed: 1.5
+  m_HP: 10
+  m_Armor: 0
+  armorType: 1
+  m_Score: 0
+  m_Collider: 0.28
+  damage: 1
+  gold: 2
